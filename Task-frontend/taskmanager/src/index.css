@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-button{
+  @apply   bg-green-500 text-white px-10 ;
+}
+.todo{
+  @apply text-white;
+}
